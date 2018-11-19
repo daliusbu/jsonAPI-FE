@@ -1,0 +1,15 @@
+{
+    "name": "crv/behat-json-api-tester",
+    "description": "A project to test JSON APIs",
+    "type": "project",
+    "require": {
+        "behat/behat": "^3.4",
+        "imbo/behat-api-extension": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "daliusbu",
+            "email": "daliusbu@gmail.com"
+        }
+    ]
+}
